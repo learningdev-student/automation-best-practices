@@ -2,6 +2,8 @@
 
 Change from GitHub Desktop|
 
+
+New line of change 
 Adding some changes from a branch, created from GitHub Desktop
 
 Adding some change 
